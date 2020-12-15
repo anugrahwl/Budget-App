@@ -1,8 +1,8 @@
-# Disclamier  
+# Disclaimer  
 So, I began to work on this project when one of my friends (actually not that many friends) suggested me to get the python course certification that held by a website named FreeCodeCamp. Sorry for my bad english and here is his disclaimer: "This problem is owned by FreeCodeCamp and the solution is made by me. Don't violating FreeCodeCamp terms by copy-paste my work. Do your best and feel free to see my solution as a quick REFERENCE after hurricane and storms devastated your brain then made your version by yourself. This is about the learning progress NOT an achievement matter."  
 
 
-***End Disclamier***  
+***End Disclaimer***  
 
 
 ### Assignment
