@@ -124,23 +124,3 @@ def create_spend_chart(categories):
         output += buff
 
     return output[:-1]
-
-def test():
-
-    school = Category("sekolah")
-    food = Category("makanan")
-
-    school.deposit(100,"Investasi")
-    school.withdraw(12, "BPP")
-    school.transfer(30, food)
-
-    food.deposit(10,"from mom")
-    food.withdraw(6, "nasi uduk")
-    food.withdraw(5, "beli air")
-    food.withdraw(7.5, "biskuit roma")
-    food.withdraw(12, "ketoprak")
-
-    print(food)
-    print(school)
-    objects = [food, school]
-    print(create_spend_chart(objects))
