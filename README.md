@@ -1,9 +1,6 @@
-# Disclaimer  
-So, I started to work on this problem when one of my friends (actually not that many friends) suggested me to get the python course certification that held by a website named FreeCodeCamp. This problem is made by FreeCodeCamp and the solution is made by me, thank to my friend for helping me out. If you curious about him, click [here] to check his github account. 
-
-
-***End Disclaimer***  
-
+## Disclaimer  
+So, I started to work on this problem when one of my friends (actually not that many friends) suggested me to get the python course certification that held by a website named FreeCodeCamp. This problem is made by FreeCodeCamp and the solution is made by me, thank to my friend for helping me out. If you curious about him, click [here] to check his github account.
+##
 
 ### Assignment
 
