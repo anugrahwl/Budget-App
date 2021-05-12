@@ -1,5 +1,5 @@
 # Disclaimer  
-So, I started to work on this problem when one of my friends (actually not that many friends) suggested me to get the python course certification that held by a website named FreeCodeCamp. This problem is made by FreeCodeCamp and the solution is made by me, thank to my friend for helping me out. If you curious about him, feel free to check his github at github.com/anyafachri. 
+So, I started to work on this problem when one of my friends (actually not that many friends) suggested me to get the python course certification that held by a website named FreeCodeCamp. This problem is made by FreeCodeCamp and the solution is made by me, thank to my friend for helping me out. If you curious about him, click [here] to check his github account. 
 
 
 ***End Disclaimer***  
@@ -75,3 +75,6 @@ We imported the tests from `test_module.py` to `main.py` for your convenience. T
 ### Submitting
 
 Copy your project's URL and submit it to freeCodeCamp.
+
+[//]: # (Reference links used in the body of this note)
+[here]: <https://github.com/anyafachri/>
